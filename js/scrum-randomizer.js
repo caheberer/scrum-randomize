@@ -4,7 +4,7 @@ var teams = {
       'Daniel',
       'Jeanette',
       'Jenn',
-      'Tommi',
+      'Tommi'
     ]
 }
     today = new Date();
