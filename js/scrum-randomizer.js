@@ -1,4 +1,4 @@
-var teams = {
+var team = {
     'Studio': [
       'Candice',
       'Daniel',
