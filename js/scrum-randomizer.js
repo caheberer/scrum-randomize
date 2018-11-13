@@ -3,7 +3,7 @@ var teams = {
       'Candice',
       'Daniel',
       'Jenn',
-        'Stephanie',
+      'Stephanie',
       'Tommi'
     ]
 }
