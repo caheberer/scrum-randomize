@@ -1,6 +1,7 @@
 var teams = {
     'Studio': [
       'Candice',
+      'Lydia',
       'Jenn',
       'Tommi'
     ]
