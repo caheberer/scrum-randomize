@@ -1,8 +1,10 @@
 var teams = {
     'Studio': [
-      'Candice',
+      'AJ',
       'Carol',
       'Jenn',
+      'Natalia',
+      'Tina',
       'Tommi'
     ]
 }
